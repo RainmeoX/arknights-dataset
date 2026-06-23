@@ -1,0 +1,987 @@
+[
+  {
+    "id": "K001",
+    "type": "profession",
+    "question": "天空盒是什么职业的干员？",
+    "keywords": [
+      "狙击",
+      "5星"
+    ],
+    "standard_answer": "天空盒是5星狙击干员，分支为裂空炮手。"
+  },
+  {
+    "id": "K002",
+    "type": "profession",
+    "question": "初雪是什么职业的干员？",
+    "keywords": [
+      "辅助",
+      "5星"
+    ],
+    "standard_answer": "初雪是5星辅助干员，分支为削弱者。"
+  },
+  {
+    "id": "K003",
+    "type": "profession",
+    "question": "艾丽妮是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "6星"
+    ],
+    "standard_answer": "艾丽妮是6星近卫干员，分支为剑豪。"
+  },
+  {
+    "id": "K004",
+    "type": "profession",
+    "question": "讯使是什么职业的干员？",
+    "keywords": [
+      "先锋",
+      "4星"
+    ],
+    "standard_answer": "讯使是4星先锋干员，分支为尖兵。"
+  },
+  {
+    "id": "K005",
+    "type": "profession",
+    "question": "假日威龙陈是什么职业的干员？",
+    "keywords": [
+      "狙击",
+      "6星"
+    ],
+    "standard_answer": "假日威龙陈是6星狙击干员，分支为散射手。"
+  },
+  {
+    "id": "K006",
+    "type": "profession",
+    "question": "煌是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "6星"
+    ],
+    "standard_answer": "煌是6星近卫干员，分支为强攻手。"
+  },
+  {
+    "id": "K007",
+    "type": "profession",
+    "question": "和弦是什么职业的干员？",
+    "keywords": [
+      "术师",
+      "5星"
+    ],
+    "standard_answer": "和弦是5星术师干员，分支为秘术师。"
+  },
+  {
+    "id": "K008",
+    "type": "profession",
+    "question": "电弧是什么职业的干员？",
+    "keywords": [
+      "辅助",
+      "6星"
+    ],
+    "standard_answer": "电弧是6星辅助干员，分支为召唤师。"
+  },
+  {
+    "id": "K009",
+    "type": "profession",
+    "question": "崖心是什么职业的干员？",
+    "keywords": [
+      "特种",
+      "5星"
+    ],
+    "standard_answer": "崖心是5星特种干员，分支为钩索师。"
+  },
+  {
+    "id": "K010",
+    "type": "profession",
+    "question": "缠丸是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "4星"
+    ],
+    "standard_answer": "缠丸是4星近卫干员，分支为无畏者。"
+  },
+  {
+    "id": "K011",
+    "type": "profession",
+    "question": "乌啾是什么职业的干员？",
+    "keywords": [
+      "医疗",
+      "5星"
+    ],
+    "standard_answer": "乌啾是5星医疗干员，分支为链愈师。"
+  },
+  {
+    "id": "K012",
+    "type": "profession",
+    "question": "山是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "6星"
+    ],
+    "standard_answer": "山是6星近卫干员，分支为斗士。"
+  },
+  {
+    "id": "K013",
+    "type": "profession",
+    "question": "CONFESS-47是什么职业的干员？",
+    "keywords": [
+      "先锋",
+      "1星"
+    ],
+    "standard_answer": "CONFESS-47是1星先锋干员，分支为尖兵。"
+  },
+  {
+    "id": "K014",
+    "type": "profession",
+    "question": "双月是什么职业的干员？",
+    "keywords": [
+      "特种",
+      "5星"
+    ],
+    "standard_answer": "双月是5星特种干员，分支为傀儡师。"
+  },
+  {
+    "id": "K015",
+    "type": "profession",
+    "question": "Mechanist(卫戍协议)是什么职业的干员？",
+    "keywords": [
+      "重装",
+      "6星"
+    ],
+    "standard_answer": "Mechanist(卫戍协议)是6星重装干员，分支为铁卫。"
+  },
+  {
+    "id": "K016",
+    "type": "profession",
+    "question": "安洁莉娜是什么职业的干员？",
+    "keywords": [
+      "辅助",
+      "6星"
+    ],
+    "standard_answer": "安洁莉娜是6星辅助干员，分支为凝滞师。"
+  },
+  {
+    "id": "K017",
+    "type": "profession",
+    "question": "安德切尔是什么职业的干员？",
+    "keywords": [
+      "狙击",
+      "3星"
+    ],
+    "standard_answer": "安德切尔是3星狙击干员，分支为速射手。"
+  },
+  {
+    "id": "K018",
+    "type": "profession",
+    "question": "车尔尼是什么职业的干员？",
+    "keywords": [
+      "重装",
+      "5星"
+    ],
+    "standard_answer": "车尔尼是5星重装干员，分支为驭法铁卫。"
+  },
+  {
+    "id": "K019",
+    "type": "profession",
+    "question": "赫默是什么职业的干员？",
+    "keywords": [
+      "医疗",
+      "5星"
+    ],
+    "standard_answer": "赫默是5星医疗干员，分支为医师。"
+  },
+  {
+    "id": "K020",
+    "type": "profession",
+    "question": "红是什么职业的干员？",
+    "keywords": [
+      "特种",
+      "5星"
+    ],
+    "standard_answer": "红是5星特种干员，分支为处决者。"
+  },
+  {
+    "id": "K021",
+    "type": "profession",
+    "question": "齐尔查克是什么职业的干员？",
+    "keywords": [
+      "先锋",
+      "5星"
+    ],
+    "standard_answer": "齐尔查克是5星先锋干员，分支为情报官。"
+  },
+  {
+    "id": "K022",
+    "type": "profession",
+    "question": "松果是什么职业的干员？",
+    "keywords": [
+      "狙击",
+      "4星"
+    ],
+    "standard_answer": "松果是4星狙击干员，分支为散射手。"
+  },
+  {
+    "id": "K023",
+    "type": "profession",
+    "question": "艾拉是什么职业的干员？",
+    "keywords": [
+      "特种",
+      "6星"
+    ],
+    "standard_answer": "艾拉是6星特种干员，分支为陷阱师。"
+  },
+  {
+    "id": "K024",
+    "type": "profession",
+    "question": "圣聆初雪是什么职业的干员？",
+    "keywords": [
+      "术师",
+      "6星"
+    ],
+    "standard_answer": "圣聆初雪是6星术师干员，分支为阵法术师。"
+  },
+  {
+    "id": "K025",
+    "type": "profession",
+    "question": "瑰盐是什么职业的干员？",
+    "keywords": [
+      "医疗",
+      "5星"
+    ],
+    "standard_answer": "瑰盐是5星医疗干员，分支为群愈师。"
+  },
+  {
+    "id": "K026",
+    "type": "profession",
+    "question": "星熊是什么职业的干员？",
+    "keywords": [
+      "重装",
+      "6星"
+    ],
+    "standard_answer": "星熊是6星重装干员，分支为铁卫。"
+  },
+  {
+    "id": "K027",
+    "type": "profession",
+    "question": "推进之王是什么职业的干员？",
+    "keywords": [
+      "先锋",
+      "6星"
+    ],
+    "standard_answer": "推进之王是6星先锋干员，分支为尖兵。"
+  },
+  {
+    "id": "K028",
+    "type": "profession",
+    "question": "晓歌是什么职业的干员？",
+    "keywords": [
+      "先锋",
+      "5星"
+    ],
+    "standard_answer": "晓歌是5星先锋干员，分支为情报官。"
+  },
+  {
+    "id": "K029",
+    "type": "profession",
+    "question": "罗小黑是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "4星"
+    ],
+    "standard_answer": "罗小黑是4星近卫干员，分支为领主。"
+  },
+  {
+    "id": "K030",
+    "type": "profession",
+    "question": "赫拉格是什么职业的干员？",
+    "keywords": [
+      "近卫",
+      "6星"
+    ],
+    "standard_answer": "赫拉格是6星近卫干员，分支为武者。"
+  },
+  {
+    "id": "K031",
+    "type": "rarity",
+    "question": "Misery(卫戍协议)是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "Misery(卫戍协议)是6星干员。"
+  },
+  {
+    "id": "K032",
+    "type": "rarity",
+    "question": "霜叶是几星干员？",
+    "keywords": [
+      "4星",
+      "4"
+    ],
+    "standard_answer": "霜叶是4星干员。"
+  },
+  {
+    "id": "K033",
+    "type": "rarity",
+    "question": "锏是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "锏是6星干员。"
+  },
+  {
+    "id": "K034",
+    "type": "rarity",
+    "question": "预备干员-狙击(卫戍协议)是几星干员？",
+    "keywords": [
+      "4星",
+      "4"
+    ],
+    "standard_answer": "预备干员-狙击(卫戍协议)是4星干员。"
+  },
+  {
+    "id": "K035",
+    "type": "rarity",
+    "question": "铸铁是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "铸铁是5星干员。"
+  },
+  {
+    "id": "K036",
+    "type": "rarity",
+    "question": "12F是几星干员？",
+    "keywords": [
+      "2星",
+      "2"
+    ],
+    "standard_answer": "12F是2星干员。"
+  },
+  {
+    "id": "K037",
+    "type": "rarity",
+    "question": "遥是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "遥是6星干员。"
+  },
+  {
+    "id": "K038",
+    "type": "rarity",
+    "question": "预备干员-近卫(卫戍协议)是几星干员？",
+    "keywords": [
+      "4星",
+      "4"
+    ],
+    "standard_answer": "预备干员-近卫(卫戍协议)是4星干员。"
+  },
+  {
+    "id": "K039",
+    "type": "rarity",
+    "question": "铎铃是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "铎铃是5星干员。"
+  },
+  {
+    "id": "K040",
+    "type": "rarity",
+    "question": "响石是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "响石是5星干员。"
+  },
+  {
+    "id": "K041",
+    "type": "rarity",
+    "question": "Mechanist(卫戍协议)是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "Mechanist(卫戍协议)是6星干员。"
+  },
+  {
+    "id": "K042",
+    "type": "rarity",
+    "question": "拉普兰德是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "拉普兰德是5星干员。"
+  },
+  {
+    "id": "K043",
+    "type": "rarity",
+    "question": "渡桥是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "渡桥是5星干员。"
+  },
+  {
+    "id": "K044",
+    "type": "rarity",
+    "question": "赫德雷是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "赫德雷是6星干员。"
+  },
+  {
+    "id": "K045",
+    "type": "rarity",
+    "question": "耀骑士临光是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "耀骑士临光是6星干员。"
+  },
+  {
+    "id": "K046",
+    "type": "rarity",
+    "question": "空爆是几星干员？",
+    "keywords": [
+      "3星",
+      "3"
+    ],
+    "standard_answer": "空爆是3星干员。"
+  },
+  {
+    "id": "K047",
+    "type": "rarity",
+    "question": "缠丸是几星干员？",
+    "keywords": [
+      "4星",
+      "4"
+    ],
+    "standard_answer": "缠丸是4星干员。"
+  },
+  {
+    "id": "K048",
+    "type": "rarity",
+    "question": "车尔尼是几星干员？",
+    "keywords": [
+      "5星",
+      "5"
+    ],
+    "standard_answer": "车尔尼是5星干员。"
+  },
+  {
+    "id": "K049",
+    "type": "rarity",
+    "question": "铃兰是几星干员？",
+    "keywords": [
+      "6星",
+      "6"
+    ],
+    "standard_answer": "铃兰是6星干员。"
+  },
+  {
+    "id": "K050",
+    "type": "rarity",
+    "question": "骋风是几星干员？",
+    "keywords": [
+      "4星",
+      "4"
+    ],
+    "standard_answer": "骋风是4星干员。"
+  },
+  {
+    "id": "K051",
+    "type": "faction",
+    "question": "凛冬属于哪个阵营？",
+    "keywords": [
+      "乌萨斯"
+    ],
+    "standard_answer": "凛冬属于乌萨斯阵营。"
+  },
+  {
+    "id": "K052",
+    "type": "faction",
+    "question": "蕾缪安属于哪个阵营？",
+    "keywords": [
+      "拉特兰"
+    ],
+    "standard_answer": "蕾缪安属于拉特兰阵营。"
+  },
+  {
+    "id": "K053",
+    "type": "faction",
+    "question": "微风属于哪个阵营？",
+    "keywords": [
+      "维多利亚"
+    ],
+    "standard_answer": "微风属于维多利亚阵营。"
+  },
+  {
+    "id": "K054",
+    "type": "faction",
+    "question": "嘉维尔属于哪个阵营？",
+    "keywords": [
+      "罗德岛"
+    ],
+    "standard_answer": "嘉维尔属于罗德岛阵营。"
+  },
+  {
+    "id": "K055",
+    "type": "faction",
+    "question": "摆渡人属于哪个阵营？",
+    "keywords": [
+      "米诺斯"
+    ],
+    "standard_answer": "摆渡人属于米诺斯阵营。"
+  },
+  {
+    "id": "K056",
+    "type": "faction",
+    "question": "幽灵鲨属于哪个阵营？",
+    "keywords": [
+      "阿戈尔"
+    ],
+    "standard_answer": "幽灵鲨属于阿戈尔阵营。"
+  },
+  {
+    "id": "K057",
+    "type": "faction",
+    "question": "帕拉斯属于哪个阵营？",
+    "keywords": [
+      "米诺斯"
+    ],
+    "standard_answer": "帕拉斯属于米诺斯阵营。"
+  },
+  {
+    "id": "K058",
+    "type": "faction",
+    "question": "石英属于哪个阵营？",
+    "keywords": [
+      "哥伦比亚"
+    ],
+    "standard_answer": "石英属于哥伦比亚阵营。"
+  },
+  {
+    "id": "K059",
+    "type": "faction",
+    "question": "达格达属于哪个阵营？",
+    "keywords": [
+      "维多利亚"
+    ],
+    "standard_answer": "达格达属于维多利亚阵营。"
+  },
+  {
+    "id": "K060",
+    "type": "faction",
+    "question": "流明属于哪个阵营？",
+    "keywords": [
+      "伊比利亚"
+    ],
+    "standard_answer": "流明属于伊比利亚阵营。"
+  },
+  {
+    "id": "K061",
+    "type": "faction",
+    "question": "伯塔尼属于哪个阵营？",
+    "keywords": [
+      "乌萨斯"
+    ],
+    "standard_answer": "伯塔尼属于乌萨斯阵营。"
+  },
+  {
+    "id": "K062",
+    "type": "faction",
+    "question": "四月属于哪个阵营？",
+    "keywords": [
+      "雷姆必拓"
+    ],
+    "standard_answer": "四月属于雷姆必拓阵营。"
+  },
+  {
+    "id": "K063",
+    "type": "faction",
+    "question": "矩属于哪个阵营？",
+    "keywords": [
+      "炎"
+    ],
+    "standard_answer": "矩属于炎阵营。"
+  },
+  {
+    "id": "K064",
+    "type": "faction",
+    "question": "夕属于哪个阵营？",
+    "keywords": [
+      "炎"
+    ],
+    "standard_answer": "夕属于炎阵营。"
+  },
+  {
+    "id": "K065",
+    "type": "faction",
+    "question": "乌尔比安属于哪个阵营？",
+    "keywords": [
+      "阿戈尔"
+    ],
+    "standard_answer": "乌尔比安属于阿戈尔阵营。"
+  },
+  {
+    "id": "K066",
+    "type": "skills",
+    "question": "凛视有哪些技能？",
+    "keywords": [
+      "我见崩毁之前",
+      "我见枯朽之后"
+    ],
+    "standard_answer": "凛视的技能有：我见崩毁之前、我见枯朽之后。"
+  },
+  {
+    "id": "K067",
+    "type": "skills",
+    "question": "斯卡蒂有哪些技能？",
+    "keywords": [
+      "迅捷打击·γ型",
+      "跃浪击",
+      "涌潮悲歌"
+    ],
+    "standard_answer": "斯卡蒂的技能有：迅捷打击·γ型、跃浪击、涌潮悲歌。"
+  },
+  {
+    "id": "K068",
+    "type": "skills",
+    "question": "哈洛德有哪些技能？",
+    "keywords": [
+      "治疗强化·γ型",
+      "重症优先"
+    ],
+    "standard_answer": "哈洛德的技能有：治疗强化·γ型、重症优先。"
+  },
+  {
+    "id": "K069",
+    "type": "skills",
+    "question": "亚叶有哪些技能？",
+    "keywords": [
+      "最大剂量输注",
+      "复合型药物弹片"
+    ],
+    "standard_answer": "亚叶的技能有：最大剂量输注、复合型药物弹片。"
+  },
+  {
+    "id": "K070",
+    "type": "skills",
+    "question": "鞭刃有哪些技能？",
+    "keywords": [
+      "激励艺术",
+      "鞭刃"
+    ],
+    "standard_answer": "鞭刃的技能有：激励艺术、鞭刃。"
+  },
+  {
+    "id": "K071",
+    "type": "skills",
+    "question": "摆渡人有哪些技能？",
+    "keywords": [
+      "奔流",
+      "同胞的意志"
+    ],
+    "standard_answer": "摆渡人的技能有：奔流、同胞的意志。"
+  },
+  {
+    "id": "K072",
+    "type": "skills",
+    "question": "锡人有哪些技能？",
+    "keywords": [
+      "“老科利”",
+      "“大拉里”"
+    ],
+    "standard_answer": "锡人的技能有：“老科利”、“大拉里”。"
+  },
+  {
+    "id": "K073",
+    "type": "skills",
+    "question": "红隼有哪些技能？",
+    "keywords": [
+      "冲锋号令·γ型",
+      "醉刃乱舞"
+    ],
+    "standard_answer": "红隼的技能有：冲锋号令·γ型、醉刃乱舞。"
+  },
+  {
+    "id": "K074",
+    "type": "skills",
+    "question": "预备干员-狙击(卫戍协议)有哪些技能？",
+    "keywords": [
+      "攻击力强化·α型",
+      "攻击力强化·β型",
+      "攻击力强化·γ型"
+    ],
+    "standard_answer": "预备干员-狙击(卫戍协议)的技能有：攻击力强化·α型、攻击力强化·β型、攻击力强化·γ型。"
+  },
+  {
+    "id": "K075",
+    "type": "skills",
+    "question": "酒神有哪些技能？",
+    "keywords": [
+      "暗夜回声"
+    ],
+    "standard_answer": "酒神的技能有：暗夜回声。"
+  },
+  {
+    "id": "K076",
+    "type": "skills",
+    "question": "布丁有哪些技能？",
+    "keywords": [
+      "战术咏唱·β型",
+      "扩散电流"
+    ],
+    "standard_answer": "布丁的技能有：战术咏唱·β型、扩散电流。"
+  },
+  {
+    "id": "K077",
+    "type": "skills",
+    "question": "华法琳有哪些技能？",
+    "keywords": [
+      "紧急包扎",
+      "不稳定血浆"
+    ],
+    "standard_answer": "华法琳的技能有：紧急包扎、不稳定血浆。"
+  },
+  {
+    "id": "K078",
+    "type": "skills",
+    "question": "赤冬有哪些技能？",
+    "keywords": [
+      "信影流·雷刀之势",
+      "信影流·十文字胜"
+    ],
+    "standard_answer": "赤冬的技能有：信影流·雷刀之势、信影流·十文字胜。"
+  },
+  {
+    "id": "K079",
+    "type": "skills",
+    "question": "流星有哪些技能？",
+    "keywords": [
+      "碎甲击",
+      "碎甲击·扩散"
+    ],
+    "standard_answer": "流星的技能有：碎甲击、碎甲击·扩散。"
+  },
+  {
+    "id": "K080",
+    "type": "skills",
+    "question": "截云有哪些技能？",
+    "keywords": [
+      "探前路",
+      "掷旧尘"
+    ],
+    "standard_answer": "截云的技能有：探前路、掷旧尘。"
+  },
+  {
+    "id": "K081",
+    "type": "skills",
+    "question": "钼铅有哪些技能？",
+    "keywords": [
+      "“驱兽专用”",
+      "“顽石专用”"
+    ],
+    "standard_answer": "钼铅的技能有：“驱兽专用”、“顽石专用”。"
+  },
+  {
+    "id": "K082",
+    "type": "skills",
+    "question": "苇草有哪些技能？",
+    "keywords": [
+      "迅捷打击·γ型",
+      "生灵火花"
+    ],
+    "standard_answer": "苇草的技能有：迅捷打击·γ型、生灵火花。"
+  },
+  {
+    "id": "K083",
+    "type": "skills",
+    "question": "铃兰有哪些技能？",
+    "keywords": [
+      "全力以赴",
+      "儿时的舞乐"
+    ],
+    "standard_answer": "铃兰的技能有：全力以赴、儿时的舞乐。"
+  },
+  {
+    "id": "K084",
+    "type": "skills",
+    "question": "风笛有哪些技能？",
+    "keywords": [
+      "迅捷打击·γ型",
+      "高效冲击"
+    ],
+    "standard_answer": "风笛的技能有：迅捷打击·γ型、高效冲击。"
+  },
+  {
+    "id": "K085",
+    "type": "skills",
+    "question": "令有哪些技能？",
+    "keywords": [
+      "重进酒"
+    ],
+    "standard_answer": "令的技能有：重进酒。"
+  },
+  {
+    "id": "K086",
+    "type": "stats",
+    "question": "令的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1079",
+      "473"
+    ],
+    "standard_answer": "令精英2满级：生命上限1079，攻击473。"
+  },
+  {
+    "id": "K087",
+    "type": "stats",
+    "question": "红的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1505",
+      "530"
+    ],
+    "standard_answer": "红精英2满级：生命上限1505，攻击530。"
+  },
+  {
+    "id": "K088",
+    "type": "stats",
+    "question": "行箸的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1746",
+      "423"
+    ],
+    "standard_answer": "行箸精英2满级：生命上限1746，攻击423。"
+  },
+  {
+    "id": "K089",
+    "type": "stats",
+    "question": "角峰的满级生命值和攻击力是多少？",
+    "keywords": [
+      "3235",
+      "375"
+    ],
+    "standard_answer": "角峰精英2满级：生命上限3235，攻击375。"
+  },
+  {
+    "id": "K090",
+    "type": "stats",
+    "question": "遥的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1887",
+      "480"
+    ],
+    "standard_answer": "遥精英2满级：生命上限1887，攻击480。"
+  },
+  {
+    "id": "K091",
+    "type": "stats",
+    "question": "崖心的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1970",
+      "765"
+    ],
+    "standard_answer": "崖心精英2满级：生命上限1970，攻击765。"
+  },
+  {
+    "id": "K092",
+    "type": "stats",
+    "question": "小满的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1260",
+      "525"
+    ],
+    "standard_answer": "小满精英2满级：生命上限1260，攻击525。"
+  },
+  {
+    "id": "K093",
+    "type": "stats",
+    "question": "波登可的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1163",
+      "492"
+    ],
+    "standard_answer": "波登可精英2满级：生命上限1163，攻击492。"
+  },
+  {
+    "id": "K094",
+    "type": "stats",
+    "question": "微风的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1595",
+      "343"
+    ],
+    "standard_answer": "微风精英2满级：生命上限1595，攻击343。"
+  },
+  {
+    "id": "K095",
+    "type": "stats",
+    "question": "锡兰的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1455",
+      "468"
+    ],
+    "standard_answer": "锡兰精英2满级：生命上限1455，攻击468。"
+  },
+  {
+    "id": "K096",
+    "type": "stats",
+    "question": "格拉尼的满级生命值和攻击力是多少？",
+    "keywords": [
+      "2235",
+      "552"
+    ],
+    "standard_answer": "格拉尼精英2满级：生命上限2235，攻击552。"
+  },
+  {
+    "id": "K097",
+    "type": "stats",
+    "question": "狮蝎的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1630",
+      "811"
+    ],
+    "standard_answer": "狮蝎精英2满级：生命上限1630，攻击811。"
+  },
+  {
+    "id": "K098",
+    "type": "stats",
+    "question": "因陀罗的满级生命值和攻击力是多少？",
+    "keywords": [
+      "2565",
+      "530"
+    ],
+    "standard_answer": "因陀罗精英2满级：生命上限2565，攻击530。"
+  },
+  {
+    "id": "K099",
+    "type": "stats",
+    "question": "棘刺的满级生命值和攻击力是多少？",
+    "keywords": [
+      "2612",
+      "711"
+    ],
+    "standard_answer": "棘刺精英2满级：生命上限2612，攻击711。"
+  },
+  {
+    "id": "K100",
+    "type": "stats",
+    "question": "复奏的满级生命值和攻击力是多少？",
+    "keywords": [
+      "1550",
+      "785"
+    ],
+    "standard_answer": "复奏精英2满级：生命上限1550，攻击785。"
+  }
+]

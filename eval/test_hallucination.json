@@ -1,0 +1,482 @@
+[
+  {
+    "id": "H001",
+    "type": "hallucination",
+    "question": "张三属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "张三"
+  },
+  {
+    "id": "H002",
+    "type": "hallucination",
+    "question": "李四的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "李四"
+  },
+  {
+    "id": "H003",
+    "type": "hallucination",
+    "question": "王五属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "王五"
+  },
+  {
+    "id": "H004",
+    "type": "hallucination",
+    "question": "赵六是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "赵六"
+  },
+  {
+    "id": "H005",
+    "type": "hallucination",
+    "question": "钱七的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "钱七"
+  },
+  {
+    "id": "H006",
+    "type": "hallucination",
+    "question": "孙八属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "孙八"
+  },
+  {
+    "id": "H007",
+    "type": "hallucination",
+    "question": "周九属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "周九"
+  },
+  {
+    "id": "H008",
+    "type": "hallucination",
+    "question": "吴十的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "吴十"
+  },
+  {
+    "id": "H009",
+    "type": "hallucination",
+    "question": "郑十一是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "郑十一"
+  },
+  {
+    "id": "H010",
+    "type": "hallucination",
+    "question": "王十二属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "王十二"
+  },
+  {
+    "id": "H011",
+    "type": "hallucination",
+    "question": "李白属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "李白"
+  },
+  {
+    "id": "H012",
+    "type": "hallucination",
+    "question": "杜甫属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "杜甫"
+  },
+  {
+    "id": "H013",
+    "type": "hallucination",
+    "question": "苏轼是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "苏轼"
+  },
+  {
+    "id": "H014",
+    "type": "hallucination",
+    "question": "辛弃疾属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "辛弃疾"
+  },
+  {
+    "id": "H015",
+    "type": "hallucination",
+    "question": "李清照的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "李清照"
+  },
+  {
+    "id": "H016",
+    "type": "hallucination",
+    "question": "诸葛亮的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "诸葛亮"
+  },
+  {
+    "id": "H017",
+    "type": "hallucination",
+    "question": "司马懿属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "司马懿"
+  },
+  {
+    "id": "H018",
+    "type": "hallucination",
+    "question": "周瑜属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "周瑜"
+  },
+  {
+    "id": "H019",
+    "type": "hallucination",
+    "question": "陆逊的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "陆逊"
+  },
+  {
+    "id": "H020",
+    "type": "hallucination",
+    "question": "吕蒙的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "吕蒙"
+  },
+  {
+    "id": "H021",
+    "type": "hallucination",
+    "question": "亚瑟属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "亚瑟"
+  },
+  {
+    "id": "H022",
+    "type": "hallucination",
+    "question": "梅林的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "梅林"
+  },
+  {
+    "id": "H023",
+    "type": "hallucination",
+    "question": "兰斯洛特是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "兰斯洛特"
+  },
+  {
+    "id": "H024",
+    "type": "hallucination",
+    "question": "高文是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "高文"
+  },
+  {
+    "id": "H025",
+    "type": "hallucination",
+    "question": "加拉哈德是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "加拉哈德"
+  },
+  {
+    "id": "H026",
+    "type": "hallucination",
+    "question": "桃太郎是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "桃太郎"
+  },
+  {
+    "id": "H027",
+    "type": "hallucination",
+    "question": "金太郎的技能是什么？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "金太郎"
+  },
+  {
+    "id": "H028",
+    "type": "hallucination",
+    "question": "浦岛太郎是什么职业的干员？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "浦岛太郎"
+  },
+  {
+    "id": "H029",
+    "type": "hallucination",
+    "question": "一寸法师属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "一寸法师"
+  },
+  {
+    "id": "H030",
+    "type": "hallucination",
+    "question": "竹取公主属于哪个阵营？",
+    "expected_behavior": "拒绝回答或说明不认识该干员",
+    "keywords_reject": [
+      "不认识",
+      "不知道",
+      "不存在",
+      "没有",
+      "未找到",
+      "不了解",
+      "没有这位"
+    ],
+    "fake_name": "竹取公主"
+  }
+]
